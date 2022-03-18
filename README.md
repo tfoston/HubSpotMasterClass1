@@ -8,7 +8,7 @@ A Masterclass series with A8 Labs
 
 ---
 
-:date: __Class Schedule__ 
+:date: __Class Schedule__  
 <br>
 
 ✔️ Session 1 Tuesday 3/15/22 <br>
@@ -26,6 +26,6 @@ A Masterclass series with A8 Labs
 
 ---
 
-:question:: __Having issues?__ 
+:question:: __Having issues?__
 Add any questions you might have or issues you are encountering into the [Issues](https://github.com/tfoston8/HubSpotMasterClass1/issues)
 
