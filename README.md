@@ -26,7 +26,7 @@ A Masterclass series with A8 Labs
 
 ---
 __Presentation Decks__
-1. [Session 1]()
+1. [Session 1](https://docs.google.com/presentation/d/1Dx10JE68fIfbE8pSFjTeThmnL0MEAZhKLTU3aDe5lUs/edit?usp=sharing)
 2. [Session 2](https://docs.google.com/presentation/d/1HSJesjvyABq-tjOt2OEZf3YJtz_qkI98V_lrYn3Oknk/edit?usp=sharing)
 
 
