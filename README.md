@@ -21,13 +21,14 @@ A Masterclass series with A8 Labs
 
 1. [Session 1 video](https://youtu.be/v3-hRaeLmf0)
 2. [Session 2 video](https://youtu.be/suKjC0aQYS0)
-3. Session 3 video to be uploaded 3/31
+2. [Session 3 video](https://www.youtube.com/watch?v=A4AZH2C-J98)
 4. Session 4 video to be uploaded 4/08
 
 ---
 __Presentation Decks__
 1. [Session 1](https://docs.google.com/presentation/d/1Dx10JE68fIfbE8pSFjTeThmnL0MEAZhKLTU3aDe5lUs/edit?usp=sharing)
 2. [Session 2](https://docs.google.com/presentation/d/1HSJesjvyABq-tjOt2OEZf3YJtz_qkI98V_lrYn3Oknk/edit?usp=sharing)
+3. [Session 3](https://docs.google.com/presentation/d/1Zchu2PY3ILgMtxO4P9iFYeVcuP1wuwe3mTfgRfsgx2A/edit#slide=id.gde9d894349_0_0)
 
 
 :question: __Having issues?__
