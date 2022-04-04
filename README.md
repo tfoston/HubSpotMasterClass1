@@ -13,7 +13,7 @@ A Masterclass series with A8 Labs
 
 ✔️ Session 1 Tuesday 3/15/22 <br>
 ✔️ Session 2:  Tuesday 3/22/22 <br>
-:black_square_button: Session 3:  Tuesday  3/29/22 <br>
+✔️ Session 3:  Tuesday  3/29/22 <br>
 :black_square_button: Session 4:  Wednesday 4/06/22 [Register for this session](https://hubspot.zoom.us/webinar/register/WN_Psf1kpPtQwuwdAiL-Gepdg)<br>
 
 ---
@@ -21,7 +21,7 @@ A Masterclass series with A8 Labs
 
 1. [Session 1 video](https://youtu.be/v3-hRaeLmf0)
 2. [Session 2 video](https://youtu.be/suKjC0aQYS0)
-3. Session 3 video to be uploaded 3/31
+3. [Session 3 video](https://youtu.be/A4AZH2C-J98)
 4. Session 4 video to be uploaded 4/08
 
 ---
